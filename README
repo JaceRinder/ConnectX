@@ -1,0 +1,13 @@
+Connect X
+
+Jace Rinder
+
+Overview:
+ This project is new rendition of the classic game of Connect 4 that employs a variety of new features such as memory efficiency, game optimizations,
+ configurable dimensions for the gameboard, configurable win conditions, and also allows for more than 2 players to compete.
+
+How to use:
+ First it is important to have the files arranged such that the makefile and a folder named 'connectX' are in a local directory together.
+ After this is set up, the user can compile the project using 'make.' To run the project, the user can enter 'make run.' And to remove an
+ executable, the user can enter 'make clean.' Once the program has been run, the user will be prompted to configure the optional features of
+ the game. After the user finishes designing their style of game, the board will be updated on the command line as each player makes a move.
